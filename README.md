@@ -1,4 +1,4 @@
-# reminder_sass
+# Dossier exemple
 Pour le téléchargement de bootstrap: 
 ```
 -npm init
